@@ -12,6 +12,9 @@ and notifies the user
 ```sh
 python3 scan-vulns.py
 ```
+<p align="center">
+  <img src = "https://github.com/Berkkucukk/Wireless_Attack/blob/main/photo/menu.png?raw=true" width=1200>
+</p>
 
 #### Please be patient. The scan takes between 5 and 20 minutes. This time 
 varies depending on the number of devices connected to the network.
